@@ -1,0 +1,6 @@
+C:\workspace\WebTest\WebTest\obj\Debug\WebTest.njsproj.AssemblyReference.cache
+C:\workspace\WebTest\WebTest\obj\Debug\WebTest.njsproj.CoreCompileInputs.cache
+C:\workspace\WebTest\WebTest\bin\Microsoft.NodejsTools.WebRole.dll
+C:\workspace\web.test.com\WebTest\obj\Debug\WebTest.njsproj.AssemblyReference.cache
+C:\workspace\web.test.com\WebTest\obj\Debug\WebTest.njsproj.CoreCompileInputs.cache
+C:\workspace\web.test.com\WebTest\bin\Microsoft.NodejsTools.WebRole.dll
